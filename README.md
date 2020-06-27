@@ -9,4 +9,4 @@ Then you need to open a terminal where you have extracted the files and type the
 `cd build` \
 `qmake ..` \
 `make` \
-And you are done!
+Then run `emoji_font_changer` and you are done!
